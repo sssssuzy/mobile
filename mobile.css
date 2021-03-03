@@ -1,0 +1,4 @@
+body{color: green; background: yellow;}
+#pc_view{display: none;}
+@font-face{font-family: Namsan; src:url("08SeoulNamsanB_0.ttf")}
+h1 {font-family: Namsan;}
